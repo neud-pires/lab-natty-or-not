@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
+# Vídeo sobre cenário econômico brasileiro em 2025
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Esse vídeo faz uma análise do cenário econônico brasileiro em 2025
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-
+IA Generativa ChatGPT para elaboração do conteúdo;
+IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
+IA Generativa Leonardo IA para geração das imagens;
+IA Generativa Gamma para apresentação dos slides;
+Software Canva para edição de vídeo.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Todo o conteúdo escrito foi criado pelo Chat GPT, o D-ID foi essencial para a criação de todo conteúdo em áudio, o Leonardo IA teve sua contribuição na geração de imagens mais realísticas, o Gamma foi utilizad para criar a apresentação do conteúdo de forma rápida e prática. Já o canva permitiu toda a edição do vídeo tornando mais mais natural.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo apresenta uma visão prática de um modelo de aula sobre economia.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi uma oportunidade única de colocar em prática o aprendizado adquirido até aqui.
 ```
 
 ### Exemplos e Insigths
